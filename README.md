@@ -1,2 +1,2 @@
-<a href="https://github.io/Prathameshchatte/html-resume">html-resume</a>
-This is my online resume using only html.
+<a href="https://github.io/Prathameshchatte/html-resume">html-resume</a><br/>
+This is my online resume created using only html.
